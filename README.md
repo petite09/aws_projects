@@ -78,6 +78,9 @@ Ejemplo:
 
 ![diagrama-ejemplo](M3/diagrama_empresa_tecnologica.png)
 
+![TIP]
+>**Recurso imporante:** Librería [diagrams](https://diagrams.mingrammer.com/docs/getting-started/installation)
+
 ## Tipos de actividades
 
 >[!NOTE]
