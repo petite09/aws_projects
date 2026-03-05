@@ -70,6 +70,10 @@ Servicios de AWS.
 - Mermaid
 - Draw.io
 
+Los diagramas del repositorio fueron generados usando Python y Google Colab,
+además de herramientas como Mermaid y Draw.io para representar arquitecturas
+de sistemas en la nube.
+
 Ejemplo:
 
 ![diagrama-ejemplo](M3/diagrama_empresa_tecnologica.png)
