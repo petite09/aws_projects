@@ -50,25 +50,25 @@ Cada carpeta corresponde a un módulo del curso y contiene los ejercicios, anál
 
 ## 🛠️ Tecnologías utilizadas
 
-### Cloud
+### ☁ Cloud
 
-Servicios de AWS.
+- Servivios de AWS <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="22" style="vertical-align: middle;"/>
 
-### Control de versiones
+### 🔧 Control de versiones
 
-- Git
-- GitHub
+- Git <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" style="vertical-align: middle;"/>
+- GitHub <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" style="vertical-align: middle;"/>
 
-### Bases de datos
+### 🗄 Bases de datos
 
-- PostgreSQL
+- PostgreSQL <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20" style="vertical-align: middle;"/>
 
-### Herramientas y diagramación
+### 📊 Herramientas y diagramación
 
-- Python
-- Google Colab (generación de diagramas)
-- Mermaid
-- Draw.io
+- Python <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" style="vertical-align: middle;"/>
+- Google Colab <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" width="20" style="vertical-align: middle;"/>
+- Mermaid <img src="https://cdn.simpleicons.org/mermaid/FF3670" width="20" style="vertical-align: middle;"/>
+- Draw.io <img src="https://cdn.simpleicons.org/diagramsdotnet/F08705" width="20" style="vertical-align: middle;"/>
 
 Los diagramas del repositorio fueron generados usando Python y Google Colab,
 además de herramientas como Mermaid y Draw.io para representar arquitecturas
