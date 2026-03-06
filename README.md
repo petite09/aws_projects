@@ -17,7 +17,7 @@ Durante el curso se revisaron conceptos clave de computación en la nube, atribu
 
 Este repositorio reúne las actividades desarrolladas durante el bootcamp de Fundamentos de Arquitectura Cloud.
 
-![NOTE]
+>[!NOTE]
 > Los documentos incluidos corresponden a ejercicios y proyectos realizados en la plataforma Alkemy, por lo que conservan el formato y material original del curso.
 
 El objetivo de este repositorio es documentar el proceso de aprendizaje y los distintos temas abordados, entre ellos:
@@ -78,7 +78,7 @@ Ejemplo:
 
 ![diagrama-ejemplo](M3/diagrama_empresa_tecnologica.png)
 
-![TIP]
+>[!TIP]
 >**Recurso imporante:** Librería [diagrams](https://diagrams.mingrammer.com/docs/getting-started/installation)
 
 ## Tipos de actividades
